@@ -9,5 +9,4 @@ Welcome to the Daily Python Programs repository! This project is dedicated to po
 The primary goal of this project is to encourage daily coding practice and provide a resource for learning Python through practical examples. Regular coding helps in building and maintaining programming skills, and this repository aims to make that process easier and more enjoyable.
 
 
-To get started with the daily Python programs:
   
