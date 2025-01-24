@@ -1,4 +1,5 @@
 # Daily Python Programs
+20 DAYS 20 Python questions for basic understanding of python syntax
 
 
 Welcome to the Daily Python Programs repository! This project is dedicated to posting a new Python program every day. Each program is designed to demonstrate various Python concepts, algorithms, and use cases to help learners and students improve their coding skills.
